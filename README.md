@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **SISTEMA DE MANTENIMIENTO PREVENTIVO DE MAQUINARIA**
 
 **Asignatura**: Programación Numérica y Aplicaciones
@@ -131,3 +132,6 @@ lugar de la maquinaria, identificar oportunamente las máquinas que
 requieren atención, consultar los costos acumulados y generar un reporte
 en formato TXT para ayudar al control y a la toma de decisiones en la
 planta.
+=======
+
+>>>>>>> f6af177829b8a514b861a8e28380616c1c94a35f
